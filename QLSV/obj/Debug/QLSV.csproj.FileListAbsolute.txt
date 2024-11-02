@@ -1,0 +1,12 @@
+D:\_A123\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\_A123\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\_A123\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\_A123\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\_A123\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+D:\_A123\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\_A123\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\_A123\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\_A123\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\_A123\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\_A123\QLSV\QLSV\obj\Debug\QLSV.login.resources
+D:\_A123\QLSV\QLSV\obj\Debug\QLSV.register.resources
